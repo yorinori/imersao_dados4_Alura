@@ -12,7 +12,7 @@ Eu sou **Leandro Yorinori**, o autor deste projeto.
 
 Eu te convido a me acompanhar para dar uma espiadinha no universo da Ciência de Dados. Vem ver!
 
-## Introdução
+## Sobre o Projeto
 
 O **mercado imobiliário** é um segmento do mercado onde ocorrem as transações dos chamados *bens imóveis*. Muitas pessoas se sentem atraídas por este segmento pois o reconhecem como uma oportunidade de construir um patrimônio seguro, lucrativo e mais estável [[Ref]](https://conteudos.quintoandar.com.br/como-funciona-o-mercado-imobiliario/).
 
