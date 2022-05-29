@@ -7,7 +7,10 @@ Imagem de <a href="https://pixabay.com/pt/users/joelfotos-767874/?utm_source=lin
 
 Primeiramente, muito bem-vindo!
 
-## Linguagem
+## Linguagens
 
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
+![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 
 ## Tecnologias/Frameworks
